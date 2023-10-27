@@ -1,34 +1,32 @@
 {
   "prod": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["O Lugar Antes de Mim"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app/",
+    "collection": "https://olugarantesdemim-iiif.vercel.app/",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json"    
+      "https://olugarantesdemim-iiif.vercel.app/14/manifest.json",
+      "https://olugarantesdemim-iiif.vercel.app/4/manifest.json",
+      "https://olugarantesdemim-iiif.vercel.app/1/manifest.json"
     ],
-    "metadata": ["Data", "Tipo", "Autoria"]
+    "metadata": ["Creator", "Type"]
   },
   "dev": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["O Lugar Antes de Mim"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app",
+    "collection": "https://olugarantesdemim-iiif.vercel.app/",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json" 
+      "https://olugarantesdemim-iiif.vercel.app/14/manifest.json",
+      "https://olugarantesdemim-iiif.vercel.app/4/manifest.json" ,
+      "https://olugarantesdemim-iiif.vercel.app/1/manifest.json"
     ],
-    "metadata": ["Data", "Tipo", "Autoria"]
+    "metadata": ["Creator", "Type"]
   }
 }
