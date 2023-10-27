@@ -49,17 +49,12 @@ const Index: React.FC<IndexProps> = ({ featuredItem, collections }) => {
         <Heading as="h2">Sobre a coleção</Heading>
         <div>
           <p>
-          Nos anos 1960, quando governava o Estado da Guanabara, Carlos Lacerda (1914-1977) ganhou, 
-          não se sabe de quem, uma mala cheia de negativos fotográficos de vidro, além de imagens impressas.
-          Eram registros raros do Rio em sua belle époque –o período entre 1902 e 1930–, fase de grandes 
-          transformações urbanas na então capital do país. Após anos esquecido e inacessível ao público, 
-          esse material foi comprado no fim de 2016 pelo IMS (Instituto Moreira Salles) e agora está disponível 
-          para consulta. A estrela do acervo é o morro do Castelo, berço da fundação do Rio, que ficava na região 
-          central. Cerca de 40% das imagens retratam o cotidiano de seus habitantes e sua demolição, nos anos 1920.
-          <br />- Marco Aurélio Canônico, extraído de{" "}
-          <a href="https://www1.folha.uol.com.br/ilustrada/2017/01/1854362-acervo-de-carlos-lacerda-com-fotos-da-belle-epoque-carioca-sera-digitalizado.shtml">
-          Folha de São Paulo
-          </a>.
+          O projeto "O Lugar Antes de Mim" constitui em uma série transmídia que se desenvolve desde 2015, através de filmes médias e longas-metragens, programas de TV, videocasts, podcasts e em breve publicação de livros. 
+A série acumula reconhecimento no Brasil e no exterior por sua atuação no registro e difusão do patrimônio cultural, seja ele material ou imaterial, através da seleção para festivais nacionais e internacionais, bem como premiações, 
+          como: o Prêmio do Público no festival de cinema francês Rencontres d'archéologie de la Narbonnaise (2020), com o Prêmio de Melhor longa-metragem no 10º Festcine - Festival de Cinema de Pinhais (2022). 
+            Participou do Firenze Archeofilm - Festival Internazionale Del Cinema di Archeologia Arte Ambiente - Itália (2019, 2021 e 2022), do Festival Internacional de Cine Arqueológico del Bidasoa (FICAB), no País Basco/Espanha (2020 e 2023), 
+            do Festival de Cinema de Sesimbra Portugal (2018) e do Arraial Cine Fest – Festival de Cinema de Arraial D'Ajuda/Porto Seguro-BA (2018) e da Mostra Arquivo-Memória Cine Tornado - Brasil (2020).
+No canal da proponente (https://www.youtube.com/c/amplercinetv) Ampler Cine TV disponibilizamos os materiais já publicados, bem como no site: www.olugarantesdemim.tv.br e nos perfis @olugarantesdemim (Facebook) e @o.lugar.antes.de.mim (Instagram).
           </p>
         </div>
         <Related
