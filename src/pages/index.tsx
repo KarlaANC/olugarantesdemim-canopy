@@ -12,6 +12,7 @@ import { canopyManifests } from "@lib/constants/canopy";
 import { createCollection } from "../lib/iiif/constructors/collection";
 import { getRelatedFacetValue } from "../lib/iiif/constructors/related";
 import { useCanopyState } from "@context/canopy";
+import { Analytics } from '@vercel/analytics/react';
 
 interface IndexProps {
   featuredItem: any;
@@ -62,6 +63,7 @@ No canal da proponente (https://www.youtube.com/c/amplercinetv) Ampler Cine TV d
           title={LocaleString("homepageHighlightedWorks")}
         />
       </Container>
+      <Analytics />
     </Layout>
   );
 };
