@@ -12,7 +12,7 @@
       "https://olugarantesdemim-iiif.vercel.app/4/manifest.json",
       "https://olugarantesdemim-iiif.vercel.app/1/manifest.json"
     ],
-    "metadata": ["Creator", "Type"]
+    "metadata": ["Creator", "Type", "Cidade", "Episódio"]
   },
   "dev": {
     "label": { "none": ["O Lugar Antes de Mim"] },
@@ -27,6 +27,6 @@
       "https://olugarantesdemim-iiif.vercel.app/4/manifest.json" ,
       "https://olugarantesdemim-iiif.vercel.app/1/manifest.json"
     ],
-    "metadata": ["Creator", "Type"]
+    "metadata": ["Creator", "Type", "Cidade", "Episódio"]
   }
 }
