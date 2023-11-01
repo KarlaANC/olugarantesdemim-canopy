@@ -49,11 +49,11 @@ const Index: React.FC<IndexProps> = ({ featuredItem, collections }) => {
         <Heading as="h2">Sobre a coleção</Heading>
         <div>
           <p>
-          O projeto "O Lugar Antes de Mim" constitui em uma série transmídia que se desenvolve desde 2015, através de filmes médias e longas-metragens, programas de TV, videocasts, podcasts e em breve publicação de livros. 
+          O projeto <i>O Lugar Antes de Mim</i> constitui em uma série transmídia que se desenvolve desde 2015, através de filmes médias e longas-metragens, programas de TV, videocasts, podcasts e em breve publicação de livros. 
 A série acumula reconhecimento no Brasil e no exterior por sua atuação no registro e difusão do patrimônio cultural, seja ele material ou imaterial, através da seleção para festivais nacionais e internacionais, bem como premiações, 
-          como: o Prêmio do Público no festival de cinema francês Rencontres d'archéologie de la Narbonnaise (2020), com o Prêmio de Melhor longa-metragem no 10º Festcine - Festival de Cinema de Pinhais (2022). 
+          como: o Prêmio do Público no festival de cinema francês Rencontres {"d'archéologie"} de la Narbonnaise (2020), com o Prêmio de Melhor longa-metragem no 10º Festcine - Festival de Cinema de Pinhais (2022). 
             Participou do Firenze Archeofilm - Festival Internazionale Del Cinema di Archeologia Arte Ambiente - Itália (2019, 2021 e 2022), do Festival Internacional de Cine Arqueológico del Bidasoa (FICAB), no País Basco/Espanha (2020 e 2023), 
-            do Festival de Cinema de Sesimbra Portugal (2018) e do Arraial Cine Fest – Festival de Cinema de Arraial D'Ajuda/Porto Seguro-BA (2018) e da Mostra Arquivo-Memória Cine Tornado - Brasil (2020).
+            do Festival de Cinema de Sesimbra Portugal (2018) e do Arraial Cine Fest – Festival de Cinema de Arraial {"D'Ajuda"}/Porto Seguro-BA (2018) e da Mostra Arquivo-Memória Cine Tornado - Brasil (2020).
 No canal da proponente (https://www.youtube.com/c/amplercinetv) Ampler Cine TV disponibilizamos os materiais já publicados, bem como no site: www.olugarantesdemim.tv.br e nos perfis @olugarantesdemim (Facebook) e @o.lugar.antes.de.mim (Instagram).
           </p>
         </div>
